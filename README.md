@@ -3,9 +3,9 @@
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
 
-    Text representation
-    Graphical representation
-    Python - Dictonary representation
+  *  Text representation
+  *  Graphical representation
+  *  Python - Dictonary representation
 
 
 ## PROBLEM STATEMENT:
